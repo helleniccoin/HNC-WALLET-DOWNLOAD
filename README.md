@@ -46,12 +46,25 @@ MacOs Tools  ---> helleniccoin-tools-macos.tar.gz
 Paste the following lines in helleniccoin.conf.
 
 rpcuser=rpc_helleniccoin
+
 rpcpassword=Your_strong_rpc_password
+
+
 rpcallowip=127.0.0.1
+
+
 listen=1
+
+
 server=1
+
+
 daemon=1
+
 maxconnections=64
+
 externalip=REPLACE_WITH_EXTERNAL_IP_OF_VPS
+
 addnode=node1.helleniccoin.gr
+
 addnode=node2.helleniccoin.gr
