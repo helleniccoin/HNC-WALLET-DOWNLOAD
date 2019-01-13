@@ -49,15 +49,15 @@ rpcuser=rpc_helleniccoin
 
 rpcpassword=Your_strong_rpc_password
 
-
 rpcallowip=127.0.0.1
 
+rpcport=4601
+
+tcpport=4602
 
 listen=1
 
-
 server=1
-
 
 daemon=1
 
