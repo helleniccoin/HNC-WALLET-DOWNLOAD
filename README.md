@@ -64,3 +64,5 @@ daemon=1
 maxconnections=64
 
 addnode=104.248.131.118
+
+addnode=104.248.41.137
