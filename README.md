@@ -2,7 +2,7 @@
 
    WALLET-DOWNLOAD  --- helleniccoin.conf instractions
 
-Ready compiled hnc wallets and daemons
+Ready compiled hnc wallets
 
 
 # Windows 
