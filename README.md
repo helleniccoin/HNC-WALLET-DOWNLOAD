@@ -30,9 +30,9 @@ rpcpassword=Your_strong_rpc_password
 
 rpcallowip=127.0.0.1
 
-rpcport=15847
+rpcport=16341
 
-tcpport=15848
+tcpport=16342
 
 listen=1
 
